@@ -46,8 +46,8 @@
         <mxCell id="zFkYtYqKbQ0WqSH4JRUO-26" value="随机森林算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
           <mxGeometry x="500" y="185" width="116" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="zFkYtYqKbQ0WqSH4JRUO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
-          <mxGeometry x="270" y="272.5" width="70" height="35" as="geometry" />
+        <mxCell id="MWTOm9DVdvHUIOr6Zr2g-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H866XLaRF6j9U0xE_twg-1" source="zFkYtYqKbQ0WqSH4JRUO-15" target="MWTOm9DVdvHUIOr6Zr2g-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zFkYtYqKbQ0WqSH4JRUO-15" value="Ⅱ型" style="rounded=0;whiteSpace=wrap;html=1;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
           <mxGeometry x="379" y="272.5" width="70" height="35" as="geometry" />
@@ -69,6 +69,9 @@
             <mxPoint x="330" y="360" as="sourcePoint" />
             <mxPoint x="380" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MWTOm9DVdvHUIOr6Zr2g-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H866XLaRF6j9U0xE_twg-1">
+          <mxGeometry x="204" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
