@@ -46,11 +46,8 @@
         <mxCell id="zFkYtYqKbQ0WqSH4JRUO-26" value="随机森林算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
           <mxGeometry x="500" y="185" width="116" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="zFkYtYqKbQ0WqSH4JRUO-5" value="I型" style="rounded=0;whiteSpace=wrap;html=1;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
+        <mxCell id="zFkYtYqKbQ0WqSH4JRUO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
           <mxGeometry x="270" y="272.5" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="MWTOm9DVdvHUIOr6Zr2g-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H866XLaRF6j9U0xE_twg-1" source="zFkYtYqKbQ0WqSH4JRUO-15" target="zFkYtYqKbQ0WqSH4JRUO-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zFkYtYqKbQ0WqSH4JRUO-15" value="Ⅱ型" style="rounded=0;whiteSpace=wrap;html=1;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
           <mxGeometry x="379" y="272.5" width="70" height="35" as="geometry" />
