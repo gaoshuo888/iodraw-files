@@ -125,8 +125,8 @@
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-16" value="实时气象信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B-0yFBP9oU_2lRnKd_5u-19" value="降雨雨型随机森林预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="430" width="226" height="30" as="geometry" />
+        <mxCell id="B-0yFBP9oU_2lRnKd_5u-19" value="预测雨型：Ⅰ型、Ⅱ型、Ⅲ型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="420" width="136" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
