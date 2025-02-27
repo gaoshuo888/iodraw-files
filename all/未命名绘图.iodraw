@@ -81,7 +81,7 @@
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-1" target="B-0yFBP9oU_2lRnKd_5u-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B-0yFBP9oU_2lRnKd_5u-1" value="历史气象信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B-0yFBP9oU_2lRnKd_5u-1" value="历史气象信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="250" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-2" target="B-0yFBP9oU_2lRnKd_5u-10">
@@ -93,7 +93,7 @@
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-4" target="B-0yFBP9oU_2lRnKd_5u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B-0yFBP9oU_2lRnKd_5u-4" value="历史降雨信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B-0yFBP9oU_2lRnKd_5u-4" value="历史降雨信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="450" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-6" target="B-0yFBP9oU_2lRnKd_5u-10">
@@ -132,7 +132,7 @@
           <mxGeometry x="441.5" y="410" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-21" value="获得洪水类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="441.5" y="460" width="138.5" height="30" as="geometry" />
+          <mxGeometry x="457.75" y="460" width="138.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
