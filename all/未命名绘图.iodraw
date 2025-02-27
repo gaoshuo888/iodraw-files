@@ -134,9 +134,13 @@
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-21" target="B-0yFBP9oU_2lRnKd_5u-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B-0yFBP9oU_2lRnKd_5u-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-21">
+        <mxCell id="B-0yFBP9oU_2lRnKd_5u-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-21" target="B-0yFBP9oU_2lRnKd_5u-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527" y="510" />
+              <mxPoint x="571" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-21" value="获得洪水类别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
