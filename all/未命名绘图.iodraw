@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-4" value="历史降雨信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="450" y="170" width="120" height="30" as="geometry" />
+          <mxGeometry x="434" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-6" target="B-0yFBP9oU_2lRnKd_5u-10">
           <mxGeometry relative="1" as="geometry">
@@ -102,10 +102,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-6" value="雨型标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="450" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="434" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B-0yFBP9oU_2lRnKd_5u-9" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0;" vertex="1" parent="1">
-          <mxGeometry x="399" y="220" width="30" height="30" as="geometry" />
+        <mxCell id="B-0yFBP9oU_2lRnKd_5u-9" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.0646771882709704;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="19" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-10" target="B-0yFBP9oU_2lRnKd_5u-14">
           <mxGeometry relative="1" as="geometry" />
