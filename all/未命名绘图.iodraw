@@ -151,7 +151,7 @@
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449.25" y="700" as="targetPoint" />
+            <mxPoint x="449" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-25" value="获得各类洪水不同参数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
