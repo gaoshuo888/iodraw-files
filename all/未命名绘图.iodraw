@@ -143,8 +143,8 @@
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-23" value="遗传算法模型参数率定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="380" y="540" width="138.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B-0yFBP9oU_2lRnKd_5u-25" value="遗传算法模型参数率定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="380" y="650" width="138.5" height="30" as="geometry" />
+        <mxCell id="B-0yFBP9oU_2lRnKd_5u-25" value="获得各类洪水不同参数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="138.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
