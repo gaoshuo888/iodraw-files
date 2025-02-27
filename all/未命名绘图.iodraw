@@ -114,7 +114,7 @@
           <mxGeometry x="354" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-14" value="降雨雨型随机森林预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="400" width="226" height="30" as="geometry" />
+          <mxGeometry x="429" y="360" width="226" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
