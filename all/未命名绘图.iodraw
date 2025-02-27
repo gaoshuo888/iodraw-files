@@ -141,7 +141,7 @@
               <mxPoint x="527" y="510" />
               <mxPoint x="650" y="510" />
               <mxPoint x="650" y="640" />
-              <mxPoint x="571" y="640" />
+              <mxPoint x="543" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -164,7 +164,7 @@
           <mxGeometry x="380" y="590" width="138.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-27" value="DHF模型参数选取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="501.5" y="660" width="138.5" height="30" as="geometry" />
+          <mxGeometry x="474" y="670" width="138.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
