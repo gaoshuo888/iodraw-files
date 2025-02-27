@@ -134,6 +134,9 @@
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-21" target="B-0yFBP9oU_2lRnKd_5u-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="B-0yFBP9oU_2lRnKd_5u-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-21" target="B-0yFBP9oU_2lRnKd_5u-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-21" value="获得洪水类别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="457.75" y="460" width="138.5" height="30" as="geometry" />
         </mxCell>
