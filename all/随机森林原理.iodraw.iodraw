@@ -241,12 +241,6 @@
             <mxPoint x="378" y="593" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBAe6KY1JGAixRKNCHG8-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="407" y="618" as="sourcePoint" />
-            <mxPoint x="391" y="652" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LBAe6KY1JGAixRKNCHG8-70" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="367" y="644" width="16" height="16" as="geometry" />
         </mxCell>
@@ -292,7 +286,7 @@
         <mxCell id="LBAe6KY1JGAixRKNCHG8-83" value="决策树模型1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="430" y="296" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LBAe6KY1JGAixRKNCHG8-85" value="决策树模型3" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="LBAe6KY1JGAixRKNCHG8-85" value="决策树模型K" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="430" y="537" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LBAe6KY1JGAixRKNCHG8-87" value="待分类数据集D" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
