@@ -11,10 +11,10 @@
           <mxGeometry x="190" y="240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vjW7qsU4EBEzntRXzjls-3" value="S2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="70" height="30" as="geometry" />
+          <mxGeometry x="190" y="310" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vjW7qsU4EBEzntRXzjls-5" value="S1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="460" width="70" height="30" as="geometry" />
+        <mxCell id="vjW7qsU4EBEzntRXzjls-5" value="SK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
