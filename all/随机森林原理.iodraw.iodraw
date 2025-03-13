@@ -298,7 +298,7 @@
         <mxCell id="LBAe6KY1JGAixRKNCHG8-87" value="待分类数据集D" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="430" y="143" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LBAe6KY1JGAixRKNCHG8-90" value="决策树模型1产生的分类结果D&lt;sub&gt;1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LBAe6KY1JGAixRKNCHG8-90" value="决策树模型1产生的分类结果D&lt;sub&gt;1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="560" y="286" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBAe6KY1JGAixRKNCHG8-91" value="决策树模型2产生的分类结果D&lt;sub&gt;2&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
