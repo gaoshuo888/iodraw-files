@@ -322,6 +322,9 @@
             <mxPoint x="469.41" y="454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LBAe6KY1JGAixRKNCHG8-103" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
