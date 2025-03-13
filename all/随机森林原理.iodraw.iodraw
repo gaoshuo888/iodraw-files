@@ -19,10 +19,10 @@
         <mxCell id="vjW7qsU4EBEzntRXzjls-1" value="训练样本集S" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="33" y="403" width="62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vjW7qsU4EBEzntRXzjls-2" value="S1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="vjW7qsU4EBEzntRXzjls-2" value="S&lt;sub&gt;1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="301" width="52.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vjW7qsU4EBEzntRXzjls-3" value="S2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vjW7qsU4EBEzntRXzjls-3" value="S&lt;sub&gt;2&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="379" width="52.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vjW7qsU4EBEzntRXzjls-5" value="SK" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
