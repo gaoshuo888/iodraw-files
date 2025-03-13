@@ -296,7 +296,7 @@
           <mxGeometry x="430" y="143" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LBAe6KY1JGAixRKNCHG8-90" value="决策树模型1产生的分类结果D1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="610" y="286" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="286" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
