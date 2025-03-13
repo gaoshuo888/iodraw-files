@@ -19,7 +19,7 @@
         <mxCell id="vjW7qsU4EBEzntRXzjls-1" value="训练样本集S" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="403" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vjW7qsU4EBEzntRXzjls-2" value="S1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="vjW7qsU4EBEzntRXzjls-2" value="S1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="134.5" y="301" width="52.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vjW7qsU4EBEzntRXzjls-3" value="S2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
@@ -311,7 +311,7 @@
           <mxGeometry x="700" y="394" width="80" height="68" as="geometry" />
         </mxCell>
         <mxCell id="LBAe6KY1JGAixRKNCHG8-97" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RF模型产生的最优分类结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="392" width="78" height="72" as="geometry" />
+          <mxGeometry x="790" y="392" width="78" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
