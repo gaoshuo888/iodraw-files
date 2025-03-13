@@ -1,36 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
-  <diagram id="THmOUBCD-tsvjRr1WcfH" name="第 2 页">
-    <mxGraphModel dx="813" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="H866XLaRF6j9U0xE_twg-0" />
-        <mxCell id="H866XLaRF6j9U0xE_twg-1" parent="H866XLaRF6j9U0xE_twg-0" />
-        <mxCell id="H866XLaRF6j9U0xE_twg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="H866XLaRF6j9U0xE_twg-1" source="H866XLaRF6j9U0xE_twg-2" target="H866XLaRF6j9U0xE_twg-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H866XLaRF6j9U0xE_twg-2" value="场雨划分（83-1=82场）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
-          <mxGeometry x="280" y="140" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="H866XLaRF6j9U0xE_twg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="H866XLaRF6j9U0xE_twg-1" source="H866XLaRF6j9U0xE_twg-3" target="H866XLaRF6j9U0xE_twg-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H866XLaRF6j9U0xE_twg-3" value="DTW降雨模式识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=center;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
-          <mxGeometry x="280" y="220" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="H866XLaRF6j9U0xE_twg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="H866XLaRF6j9U0xE_twg-1" source="H866XLaRF6j9U0xE_twg-5" target="H866XLaRF6j9U0xE_twg-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H866XLaRF6j9U0xE_twg-5" value="构建随机森林模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
-          <mxGeometry x="280" y="300" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="H866XLaRF6j9U0xE_twg-7" value="分类预报结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
-          <mxGeometry x="280" y="380" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="H866XLaRF6j9U0xE_twg-9" value="基准" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="H866XLaRF6j9U0xE_twg-1" vertex="1">
-          <mxGeometry x="350" y="280" width="40" height="10" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="5_fJuYOO2d2IpwcJauI2" name="第 3 页">
     <mxGraphModel dx="956" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
