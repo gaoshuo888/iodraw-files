@@ -52,7 +52,7 @@
             <mxPoint x="420" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vjW7qsU4EBEzntRXzjls-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vjW7qsU4EBEzntRXzjls-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="334" y="280" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
