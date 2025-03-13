@@ -316,8 +316,8 @@
         <mxCell id="LBAe6KY1JGAixRKNCHG8-99" value="随机向&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;量&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;随机化&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="452" width="40" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="LBAe6KY1JGAixRKNCHG8-103" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="434" width="20" height="20" as="geometry" />
+        <mxCell id="LBAe6KY1JGAixRKNCHG8-103" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="458" y="447" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
