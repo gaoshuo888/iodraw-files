@@ -316,7 +316,7 @@
         <mxCell id="LBAe6KY1JGAixRKNCHG8-99" value="随机向&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;量&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;随机化&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="452" width="40" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="LBAe6KY1JGAixRKNCHG8-102" value="" style="endArrow=none;html=1;strokeWidth=5;rounded=1;fontSize=18;curved=0;jumpSize=11;shadow=1;dashed=1;dashPattern=1 2;jumpStyle=none;" edge="1" parent="1">
+        <mxCell id="LBAe6KY1JGAixRKNCHG8-102" value="" style="endArrow=none;html=1;strokeWidth=5;rounded=0;fontSize=18;curved=0;jumpSize=11;shadow=1;dashed=1;dashPattern=1 2;jumpStyle=none;shape=link;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="469.41" y="504" as="sourcePoint" />
             <mxPoint x="469.41" y="454" as="targetPoint" />
