@@ -314,7 +314,7 @@
           <mxGeometry x="790" y="392" width="78" height="72" as="geometry" />
         </mxCell>
         <mxCell id="LBAe6KY1JGAixRKNCHG8-99" value="随机向量随机化" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="465" width="130" height="40" as="geometry" />
+          <mxGeometry x="10" y="452" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
