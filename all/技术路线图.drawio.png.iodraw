@@ -128,8 +128,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="530" />
-              <mxPoint x="108" y="530" />
-              <mxPoint x="108" y="550" />
+              <mxPoint x="110" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -137,7 +136,7 @@
           <mxGeometry x="107.63" y="490" width="308.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-36" value="构建训练数据集" style="rounded=0;whiteSpace=wrap;html=1;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="52.25" y="557" width="115" height="40" as="geometry" />
+          <mxGeometry x="52.25" y="550" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-37" value="模型训练与评估" style="rounded=0;whiteSpace=wrap;html=1;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="355" y="550" width="111" height="40" as="geometry" />
