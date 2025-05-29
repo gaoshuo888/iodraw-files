@@ -167,10 +167,10 @@
           <mxGeometry x="114" y="620" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-43" value="英那河流域暴雨分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="57" y="680" width="133" height="40" as="geometry" />
+          <mxGeometry x="43.25" y="680" width="133" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-44" value="洪水预报效果分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="346.5" y="680" width="140" height="40" as="geometry" />
+          <mxGeometry x="361.75" y="680" width="109.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-45" value="构建耦合气象因子的洪水预报模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="196.5" y="680" width="145" height="40" as="geometry" />
