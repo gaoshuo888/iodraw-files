@@ -57,7 +57,7 @@
             <mxPoint x="401" y="314" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;curved=1;strokeColor=#FF66B3;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-14" target="O52pYclNKXUf27VUxPyc-22" edge="1">
+        <mxCell id="O52pYclNKXUf27VUxPyc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;curved=0;strokeColor=#FF66B3;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-14" target="O52pYclNKXUf27VUxPyc-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400.5" y="314" />
