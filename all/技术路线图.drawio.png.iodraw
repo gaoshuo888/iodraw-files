@@ -35,13 +35,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXjaM27_1ChqQnt_Dk9a-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="O52pYclNKXUf27VUxPyc-1">
+        <mxCell id="UXjaM27_1ChqQnt_Dk9a-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryPerimeter=0;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" target="UXjaM27_1ChqQnt_Dk9a-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="403.75" y="166" as="sourcePoint" />
             <mxPoint x="243" y="187" as="targetPoint" />
             <Array as="points">
               <mxPoint x="404" y="171" />
               <mxPoint x="243" y="171" />
+              <mxPoint x="243" y="185" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -207,7 +208,7 @@
           <mxGeometry x="488.56" y="185" width="150.87" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UXjaM27_1ChqQnt_Dk9a-19" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;研究背景与意义&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;direction=south;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
-          <mxGeometry x="135.26" y="185" width="125.87" height="26" as="geometry" />
+          <mxGeometry x="194.75" y="185" width="125.87" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
