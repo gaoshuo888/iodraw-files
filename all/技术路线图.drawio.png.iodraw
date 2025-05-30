@@ -4,12 +4,6 @@
       <root>
         <mxCell id="O52pYclNKXUf27VUxPyc-0" />
         <mxCell id="O52pYclNKXUf27VUxPyc-1" parent="O52pYclNKXUf27VUxPyc-0" />
-        <mxCell id="4AGfePktIWqGoS4VrCEP-21" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" target="O52pYclNKXUf27VUxPyc-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="403.76852766798424" y="834" as="sourcePoint" />
-            <mxPoint x="404.5" y="340.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="d6O3SPVmfczJySZI_cip-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="403.76852766798424" y="834" as="sourcePoint" />
