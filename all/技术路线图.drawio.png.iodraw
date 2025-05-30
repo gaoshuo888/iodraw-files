@@ -75,9 +75,6 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-58" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4215035831227169;arrowSize=0.48433885761335965;fillColor=#ffff88;strokeColor=#36393d;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="395" y="234" width="19" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-68" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4215035831227169;arrowSize=0.48433885761335965;fillColor=#ffff88;strokeColor=#36393d;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="394.5" y="741" width="20" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="UXjaM27_1ChqQnt_Dk9a-6" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;国内外研究进展&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;direction=south;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="341.13" y="208" width="125.87" height="26" as="geometry" />
         </mxCell>
@@ -200,19 +197,20 @@
         <mxCell id="RYKdMxr0PWWWBYA4utCV-50" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4215035831227169;arrowSize=0.48433885761335965;fillColor=#ffff88;strokeColor=#36393d;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="394.25" y="595" width="19" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="4AGfePktIWqGoS4VrCEP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="4AGfePktIWqGoS4VrCEP-4" target="O52pYclNKXUf27VUxPyc-68">
+        <mxCell id="4AGfePktIWqGoS4VrCEP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="4AGfePktIWqGoS4VrCEP-4" target="4AGfePktIWqGoS4VrCEP-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4AGfePktIWqGoS4VrCEP-4" value="第五章&lt;div&gt;耦合气象因子的英那河水库洪水预报方案研究&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=radial;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry x="244" y="620" width="319" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="4AGfePktIWqGoS4VrCEP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" target="O52pYclNKXUf27VUxPyc-68">
+        <mxCell id="4AGfePktIWqGoS4VrCEP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="304" y="810" as="sourcePoint" />
+            <mxPoint x="423.26666666666677" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4AGfePktIWqGoS4VrCEP-15" value="洪水预报效果分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=east;strokeColor=#82b366;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
-          <mxGeometry x="513.5" y="681" width="111" height="26" as="geometry" />
+          <mxGeometry x="615" y="627.5" width="111" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
