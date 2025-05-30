@@ -48,12 +48,13 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-14" target="O52pYclNKXUf27VUxPyc-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-14" target="O52pYclNKXUf27VUxPyc-18" edge="1">
+        <mxCell id="O52pYclNKXUf27VUxPyc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;" parent="O52pYclNKXUf27VUxPyc-1" target="O52pYclNKXUf27VUxPyc-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400.5" y="314" />
               <mxPoint x="240.5" y="314" />
             </Array>
+            <mxPoint x="401" y="314" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-14" target="O52pYclNKXUf27VUxPyc-22" edge="1">
@@ -65,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-14" value="第二章&lt;div&gt;英那河水库洪水预报方案研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;direction=east;strokeColor=#0e8088;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="305.5" y="274" width="202.5" height="40" as="geometry" />
+          <mxGeometry x="305.5" y="274" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-22" value="常规洪水预报方案研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;direction=east;strokeColor=#b85450;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="492" y="334" width="140" height="30" as="geometry" />
