@@ -195,13 +195,23 @@
           <mxGeometry x="394.25" y="595" width="19" height="25" as="geometry" />
         </mxCell>
         <mxCell id="4AGfePktIWqGoS4VrCEP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="4AGfePktIWqGoS4VrCEP-4" target="4AGfePktIWqGoS4VrCEP-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="671" />
+              <mxPoint x="574" y="671" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4AGfePktIWqGoS4VrCEP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="4AGfePktIWqGoS4VrCEP-4" target="O52pYclNKXUf27VUxPyc-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4AGfePktIWqGoS4VrCEP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="4AGfePktIWqGoS4VrCEP-4" target="O52pYclNKXUf27VUxPyc-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="669" />
+              <mxPoint x="231" y="669" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4AGfePktIWqGoS4VrCEP-4" value="第五章&lt;div&gt;耦合气象因子的英那河水库洪水预报方案研究&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=radial;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry x="244" y="620" width="319" height="41" as="geometry" />
