@@ -199,7 +199,7 @@
         </mxCell>
         <mxCell id="d6O3SPVmfczJySZI_cip-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="418" y="1236.1701229319854" as="sourcePoint" />
+            <mxPoint x="408" y="1168" as="sourcePoint" />
             <mxPoint x="402" y="47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
