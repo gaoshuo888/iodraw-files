@@ -200,8 +200,8 @@
         <mxCell id="RYKdMxr0PWWWBYA4utCV-32" value="第四章&lt;div&gt;英那河流域降雨雨型随机森林预测模型&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=radial;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry x="268.75" y="504" width="272" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="RYKdMxr0PWWWBYA4utCV-40" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
-          <mxGeometry x="411" y="537" width="120" height="90" as="geometry" />
+        <mxCell id="RYKdMxr0PWWWBYA4utCV-40" value="构建训练数据集" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
+          <mxGeometry x="668" y="531" width="103" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
