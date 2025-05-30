@@ -60,7 +60,7 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-28" value="考虑天气系统影响的洪水预报方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;direction=east;strokeColor=#9673a6;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="485" y="449" width="147.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-29" value="基于天气系统成因的英那河水库洪水分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;direction=east;strokeColor=#9673a6;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
+        <mxCell id="O52pYclNKXUf27VUxPyc-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;direction=east;strokeColor=#9673a6;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="332.5" y="449" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;strokeColor=#FF0080;curved=0;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-35" target="O52pYclNKXUf27VUxPyc-38" edge="1">
@@ -192,8 +192,14 @@
         <mxCell id="RYKdMxr0PWWWBYA4utCV-14" value="第三章&lt;div&gt;考虑天气系统影响的英那河水库洪水预报方案研究&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=radial;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry x="231.75" y="375" width="346" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="RYKdMxr0PWWWBYA4utCV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="RYKdMxr0PWWWBYA4utCV-17" target="RYKdMxr0PWWWBYA4utCV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RYKdMxr0PWWWBYA4utCV-17" value="英那河流域各类天气系统&lt;br&gt;影响降雨的特点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673A6;fillColor=#E1D5E7;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry x="678" y="355" width="160.7" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RYKdMxr0PWWWBYA4utCV-18" value="英那河流域各类天气系统&lt;br&gt;影响降雨的特点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673A6;fillColor=#E1D5E7;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
+          <mxGeometry x="678" y="435" width="160.7" height="41.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
