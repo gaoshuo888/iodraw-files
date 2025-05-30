@@ -83,10 +83,10 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-3" value="国内外研究进展" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;direction=east;strokeColor=#d6b656;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="333" y="214" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-27" target="O52pYclNKXUf27VUxPyc-29" edge="1">
+        <mxCell id="O52pYclNKXUf27VUxPyc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;curved=0;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-27" target="O52pYclNKXUf27VUxPyc-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;curved=0;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-27" target="O52pYclNKXUf27VUxPyc-28" edge="1">
+        <mxCell id="O52pYclNKXUf27VUxPyc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;curved=0;strokeColor=#FF0080;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-27" target="O52pYclNKXUf27VUxPyc-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="408" y="434" />
