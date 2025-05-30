@@ -183,6 +183,9 @@
         <mxCell id="RYKdMxr0PWWWBYA4utCV-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4215035831227169;arrowSize=0.48433885761335965;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry x="395.25" y="349" width="19" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="RYKdMxr0PWWWBYA4utCV-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="RYKdMxr0PWWWBYA4utCV-14" target="RYKdMxr0PWWWBYA4utCV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RYKdMxr0PWWWBYA4utCV-14" value="第三章&lt;div&gt;考虑天气系统影响的英那河水库洪水预报方案研究&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=radial;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
           <mxGeometry x="231.75" y="375" width="346" height="41" as="geometry" />
         </mxCell>
