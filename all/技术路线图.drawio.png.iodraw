@@ -207,7 +207,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4AGfePktIWqGoS4VrCEP-9" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
-          <mxGeometry x="375" y="718" width="100" height="60" as="geometry" />
+          <mxGeometry x="171.05" y="775" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4AGfePktIWqGoS4VrCEP-10" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
+          <mxGeometry x="365" y="718" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
