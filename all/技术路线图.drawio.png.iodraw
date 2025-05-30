@@ -57,9 +57,6 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-18" value="英那河流域概况分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;direction=east;strokeColor=#b85450;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="171.3" y="322" width="134.32" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-30" value="英那河流域各类天气系统&lt;br&gt;影响降雨的特点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;direction=east;strokeColor=#9673A6;fillStyle=auto;gradientColor=none;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="179.5" y="449" width="145.5" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-28" value="考虑天气系统影响的洪水预报方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;direction=east;strokeColor=#9673a6;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="485" y="449" width="147.5" height="50" as="geometry" />
         </mxCell>
