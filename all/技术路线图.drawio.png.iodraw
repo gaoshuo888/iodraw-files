@@ -200,14 +200,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYKdMxr0PWWWBYA4utCV-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="RYKdMxr0PWWWBYA4utCV-32" target="RYKdMxr0PWWWBYA4utCV-40">
+        <mxCell id="RYKdMxr0PWWWBYA4utCV-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="RYKdMxr0PWWWBYA4utCV-32" target="RYKdMxr0PWWWBYA4utCV-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="244" y="571" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="405" y="554" />
-              <mxPoint x="239" y="554" />
-              <mxPoint x="239" y="570" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RYKdMxr0PWWWBYA4utCV-32" value="第四章&lt;div&gt;英那河流域降雨雨型随机森林预测模型&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=radial;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
