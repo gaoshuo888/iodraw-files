@@ -136,7 +136,7 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-35" value="第四章&lt;div&gt;英那河流域降雨雨型随机森林预测模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;direction=east;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="253.13" y="534" width="308.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-36" value="构建训练数据集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;direction=east;strokeColor=#6c8ebf;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
+        <mxCell id="O52pYclNKXUf27VUxPyc-36" value="构建训练数据集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;direction=east;strokeColor=#36393d;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="197.75" y="594" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-37" value="模型训练与评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;direction=east;strokeColor=#6c8ebf;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
