@@ -60,9 +60,6 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-43" value="英那河流域暴雨分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=east;strokeColor=#82b366;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="178.37" y="681" width="120.18" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="O52pYclNKXUf27VUxPyc-44" value="洪水预报效果分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=east;strokeColor=#82b366;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="514" y="695" width="110.59" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-45" value="构建耦合气象因子的洪水预报模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=east;strokeColor=#82b366;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="312" y="681" width="185" height="26" as="geometry" />
         </mxCell>
@@ -211,8 +208,8 @@
             <mxPoint x="304" y="810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4AGfePktIWqGoS4VrCEP-15" value="英那河流域暴雨分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=east;strokeColor=#82b366;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
-          <mxGeometry x="188.37" y="691" width="120.18" height="26" as="geometry" />
+        <mxCell id="4AGfePktIWqGoS4VrCEP-15" value="洪水预报效果分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=east;strokeColor=#82b366;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
+          <mxGeometry x="624.59" y="647" width="120.18" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
