@@ -194,6 +194,9 @@
         <mxCell id="O52pYclNKXUf27VUxPyc-71" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4215035831227169;arrowSize=0.48433885761335965;fillColor=#ffff88;strokeColor=#36393d;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="400.5" y="634" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d6O3SPVmfczJySZI_cip-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="O52pYclNKXUf27VUxPyc-1">
+          <mxGeometry x="354" y="376" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
