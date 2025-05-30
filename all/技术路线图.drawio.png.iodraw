@@ -31,6 +31,10 @@
         <mxCell id="UXjaM27_1ChqQnt_Dk9a-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-2" target="O52pYclNKXUf27VUxPyc-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="554" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="404" y="176" />
+              <mxPoint x="562" y="176" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-2" value="第一章&amp;nbsp; 绪论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;direction=east;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
@@ -75,7 +79,7 @@
           <mxGeometry x="332" y="323" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-5" value="研究内容和技术路线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;direction=east;strokeColor=#d6b656;shadow=0;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="492" y="196" width="140" height="30" as="geometry" />
+          <mxGeometry x="492.5" y="187" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-3" value="国内外研究进展" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;direction=east;strokeColor=#d6b656;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
           <mxGeometry x="334" y="196" width="140" height="30" as="geometry" />
