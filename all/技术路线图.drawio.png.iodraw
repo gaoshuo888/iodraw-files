@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-18" value="英那河流域概况分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;direction=east;strokeColor=#b85450;" parent="O52pYclNKXUf27VUxPyc-1" vertex="1">
-          <mxGeometry x="658.75" y="198.5" width="134.32" height="27" as="geometry" />
+          <mxGeometry x="170.3" y="305" width="134.32" height="27" as="geometry" />
         </mxCell>
         <mxCell id="O52pYclNKXUf27VUxPyc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;curved=0;strokeColor=#FF0080;" parent="O52pYclNKXUf27VUxPyc-1" source="O52pYclNKXUf27VUxPyc-27" target="O52pYclNKXUf27VUxPyc-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
