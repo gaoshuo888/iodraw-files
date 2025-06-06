@@ -11,7 +11,12 @@
           <mxGeometry x="279" y="187" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tVSpgEzxKg3Xclyw6ck9-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-0yFBP9oU_2lRnKd_5u-2" target="B-0yFBP9oU_2lRnKd_5u-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="272" />
+              <mxPoint x="414" y="272" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="B-0yFBP9oU_2lRnKd_5u-2" value="气象因子特征变量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="279" y="233" width="120" height="30" as="geometry" />
